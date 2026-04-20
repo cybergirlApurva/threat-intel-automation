@@ -1,0 +1,11 @@
+# Core dependencies
+requests>=2.31.0
+
+# MISP integration
+pymisp>=2.4.170
+
+# Data handling
+python-dateutil>=2.8.2
+
+# Optional: progress bar for large IOC sets
+tqdm>=4.66.0
