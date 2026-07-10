@@ -114,6 +114,12 @@ threat-intel-automation/
 
 ---
 
+
+## Sample Output
+
+### Pipeline Run — MISP + OTX Feed Parsing
+![Pipeline Output](screenshots/Screenshot%202026-07-09%20at%208.22.27%E2%80%AFPM.png)
+
 ## Integration Points
 
 This pipeline is designed to feed into downstream security tooling:
